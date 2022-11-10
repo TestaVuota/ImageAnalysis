@@ -1,17 +1,29 @@
 absl-py==1.2.0
+alabaster==0.7.12
+anyio==3.6.2
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
 asttokens==2.1.0
 astunparse==1.6.3
 attrs==22.1.0
-backcall==0.2.0
+Babel==2.10.3
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4==4.11.1
+bleach==5.0.1
 cachetools==5.2.0
-#certifi @ file:///C:/b/abs_4f5wo627a3/croots/recipe/certifi_1663615677642/work/certifi
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+cffi==1.15.1
 charset-normalizer==2.1.1
+click==7.1.2
 colorama==0.4.6
+configparser==5.2.0
 contourpy==1.0.6
 cycler==0.11.0
 debugpy==1.6.3
-decorator==5.1.1
-entrypoints==0.4
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml==0.7.1
+docutils==0.19
+entrypoints @ file:///C:/ci/entrypoints_1649926676279/work
 et-xmlfile==1.1.0
 executing==1.2.0
 fastjsonschema==2.16.2
@@ -21,60 +33,121 @@ gast==0.4.0
 google-auth==2.12.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
+gpib-ctypes==0.3.0
+greenlet==1.1.2
 grpcio==1.49.1
 h5py==3.7.0
 idna==3.4
 imageio==2.22.3
+imagesize==1.4.1
+importlib-resources==5.8.0
 ipykernel==6.17.0
 ipython==8.6.0
 ipython-genutils==0.2.0
-jedi==0.18.1
+ipywidgets==8.0.2
+jedi @ file:///C:/ci/jedi_1644315428305/work
+Jinja2==3.1.2
+joblib==1.2.0
 jsonschema==4.17.0
+jupyter==1.0.0
+jupyter-console==6.4.4
+jupyter-server==1.21.0
 jupyter_client==7.4.4
 jupyter_core==4.11.2
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==3.0.3
+kaleido==0.2.1
 keras==2.10.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.4
 libclang==14.0.6
+llvmlite==0.38.0
+Mako==1.2.1
 Markdown==3.4.1
 MarkupSafe==2.1.1
 matplotlib==3.6.2
-matplotlib-inline==0.1.6
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934094726/work
+mistune==2.0.4
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci_310/mkl_random_1643050563308/work
+mkl-service==2.4.0
+msl-loadlib==0.9.0
+nbclassic==0.4.5
+nbclient==0.7.0
+nbconvert==7.2.3
 nbformat==5.7.0
 nest-asyncio==1.5.6
 networkx==2.8.8
+notebook==6.5.1
+notebook_shim==0.2.0
+numba @ file:///C:/ci/numba_1650393917052/work
 numpy==1.23.3
 oauthlib==3.2.1
 opencv-python==4.6.0.66
 openpyxl==3.0.10
 opt-einsum==3.3.0
-packaging==21.3
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pafy==0.5.5
 pandas==1.5.1
-parso==0.8.3
-pickleshare==0.7.5
+pandoc==2.2
+pandocfilters==1.5.0
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pdfkit==1.0.0
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==9.3.0
 plotly==5.11.0
+plumbum==1.8.0
+ply==3.11
+prometheus-client==0.15.0
 prompt-toolkit==3.0.32
 protobuf==3.19.6
 psutil==5.9.3
-pure-eval==0.2.2
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pybind11==2.9.2
+pycparser==2.21
 Pygments==2.13.0
-pyparsing==3.0.9
+pyparsing @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_7f_7lba6rl/croots/recipe/pyparsing_1661452540662/work
+PyQt5==5.15.7
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.11.0
+PyQtWebEngine==5.15.6
+PyQtWebEngine-Qt5==5.15.2
 pyrsistent==0.19.2
-python-dateutil==2.8.2
+pyserial==3.5
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv==0.20.0
+python-vlc==3.0.16120
 pytz==2022.6
+PyVISA==1.12.0
 PyWavelets==1.4.1
 pywin32==305
+pywinpty==2.0.9
 pyzmq==24.0.1
+qtconsole==5.3.2
+QtPy==2.2.1
 requests==2.28.1
 requests-oauthlib==1.3.1
 rsa==4.9
 scikit-image==0.19.3
+scikit-learn==1.1.2
 scipy==1.9.3
 seaborn==0.12.1
-six==1.16.0
+Send2Trash==1.8.0
+shiboken2==5.15.2.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0
+sniffio==1.3.0
+snowballstemmer==2.2.0
+soupsieve==2.3.2.post1
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==2.0.0
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.5
+SQLAlchemy==1.4.39
 stack-data==0.6.0
 tenacity==8.1.0
 tensorboard==2.10.1
@@ -84,12 +157,20 @@ tensorflow==2.10.0
 tensorflow-estimator==2.10.0
 tensorflow-io-gcs-filesystem==0.27.0
 termcolor==2.0.1
+terminado==0.17.0
+threadpoolctl==3.1.0
 tifffile==2022.10.10
-tornado==6.2
+tinycss2==1.2.1
+tornado @ file:///C:/ci/tornado_1662476985533/work
 traitlets==5.5.0
 typing_extensions==4.3.0
 urllib3==1.26.12
-wcwidth==0.2.5
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+websocket-client==1.4.1
 Werkzeug==2.2.2
+widgetsnbextension==4.0.3
 wincertstore==0.2
 wrapt==1.14.1
+zipp==3.8.1
+zope.interface==5.4.0
