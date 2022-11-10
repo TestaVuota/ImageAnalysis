@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/22583264/rectangle-detection-in-image
+
+https://opencvproject.wordpress.com/projects-files/detection-shape/
+
+https://github.com/rodrigoms2004/TutorialMurtaza_OpenCV/tree/master/content/Resources
