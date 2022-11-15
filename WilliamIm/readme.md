@@ -4,18 +4,16 @@
 
 - dimer_i003
 ![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/dimer_i003.jpg?raw=true)
-- output
-![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/output.png?raw=true)
 
 ## step 2:  application d'un filtre/blur gaussien σ=2
 
 ## step 3:  application du [rolling ball algorithm](https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_rolling_ball.html)
 - rolling_ball
-![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/rolling_ball.pdf?raw=true)
+![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/rolling_ball.png?raw=true)
 
 ## step 4:  deduction du mask resultant et application du mask sur l'image d'origine via plotly
-- deducedMasks
-![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/deducedMasks.pdf?raw=true)
+![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/deducedMasks.png?raw=true)
+![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/plotly.png?raw=true)
 
 
 # A faire:  
