@@ -39,7 +39,7 @@
     - le comparer avec sa forme analogue trouvée sur opencv-python (cf. murtaza)
     - voir l'analyse utilisée (il me semble que c'était une transformée de hough)
 
-# draft
+<!-- # draft
 
 - [add images in .md](https://fr.code-paper.com/shell-bash/examples-how-to-add-images-in-md-files)
-- [add images in .md](https://www.digitalocean.com/community/tutorials/markdown-markdown-images)
+- [add images in .md](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) -->
