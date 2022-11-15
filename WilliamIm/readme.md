@@ -11,7 +11,7 @@
 ![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/rolling_ball.png?raw=true)
 
 ## step 4:  deduction du mask resultant et application du mask sur l'image d'origine via plotly
-![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/deducedMasks.png?raw=true)
+<!-- ![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/deducedMasks.png?raw=true) -->
 ![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/plotly.png?raw=true)
 
 
