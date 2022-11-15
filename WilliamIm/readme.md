@@ -2,11 +2,20 @@
 
 ## step 1:  chargement de l'image
 
+- dimer_i003
+![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/dimer_i003.jpg?raw=true)
+- output
+![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/output.png?raw=true)
+
 ## step 2:  application d'un filtre/blur gaussien σ=2
 
 ## step 3:  application du [rolling ball algorithm](https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_rolling_ball.html)
+- rolling_ball
+![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/rolling_ball.pdf?raw=true)
 
 ## step 4:  deduction du mask resultant et application du mask sur l'image d'origine via plotly
+- deducedMasks
+![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/deducedMasks.pdf?raw=true)
 
 
 # A faire:  
@@ -31,3 +40,8 @@
 - idée 3: Revoir l'algorythme de rolling_ball en vue de le modifier pour d'autre forme mais aussi:
     - le comparer avec sa forme analogue trouvée sur opencv-python (cf. murtaza)
     - voir l'analyse utilisée (il me semble que c'était une transformée de hough)
+
+# draft
+
+- [add images in .md](https://fr.code-paper.com/shell-bash/examples-how-to-add-images-in-md-files)
+- [add images in .md](https://www.digitalocean.com/community/tutorials/markdown-markdown-images)
