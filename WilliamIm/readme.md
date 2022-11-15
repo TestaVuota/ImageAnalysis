@@ -4,7 +4,8 @@
 
 ![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/dimer_i003.jpg?raw=true)
 
-## step 2:  application d'un filtre/blur gaussien σ=2
+<!-- ## step 2:  application d'un filtre/blur gaussien σ=2 -->
+## step 2:  application d'un filtre/blur gaussien σ=1
 
 ## step 3:  application du [rolling ball algorithm](https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_rolling_ball.html)
 ![alt text](https://github.com/TestaVuota/ImageAnalysis/blob/main/WilliamIm/rolling_ball.png?raw=true)
