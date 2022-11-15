@@ -39,6 +39,9 @@
     - le comparer avec sa forme analogue trouvée sur opencv-python (cf. murtaza)
     - voir l'analyse utilisée (il me semble que c'était une transformée de hough)
 
+-idée 4: suivre tuto filtering image
+    - [lien](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205736)
+
 <!-- # draft
 
 - [add images in .md](https://fr.code-paper.com/shell-bash/examples-how-to-add-images-in-md-files)
