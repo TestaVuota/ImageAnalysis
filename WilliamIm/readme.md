@@ -42,6 +42,8 @@
 -idée 4: suivre tuto filtering image
     - [lien](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205736)
 
+[other] (https://scipy-lectures.org/advanced/image_processing/auto_examples/plot_measure_data.html)
+
 <!-- # draft
 
 - [add images in .md](https://fr.code-paper.com/shell-bash/examples-how-to-add-images-in-md-files)
