@@ -44,6 +44,8 @@
 
 [other] (https://scipy-lectures.org/advanced/image_processing/auto_examples/plot_measure_data.html)
 
+[pywavelets] (https://pywavelets.readthedocs.io/en/latest/)
+
 <!-- # draft
 
 - [add images in .md](https://fr.code-paper.com/shell-bash/examples-how-to-add-images-in-md-files)
