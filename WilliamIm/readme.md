@@ -39,8 +39,11 @@
     - le comparer avec sa forme analogue trouvée sur opencv-python (cf. murtaza)
     - voir l'analyse utilisée (il me semble que c'était une transformée de hough)
 
--idée 4: suivre tuto filtering image
+- idée 4: suivre tuto filtering image
     - [lien](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205736)
+    
+- idée 5: le traitement fait en biologie
+    - [lien](https://jni.github.io/i2k-skimage-napari/lectures/2_segmentation_and_regionprops.html)
 
 [other] (https://scipy-lectures.org/advanced/image_processing/auto_examples/plot_measure_data.html)
 
